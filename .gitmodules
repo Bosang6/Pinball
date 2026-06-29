@@ -1,0 +1,3 @@
+[submodule "Plugins/uegitplugin"]
+	path = Plugins/uegitplugin
+	url = https://gitlab.com/mastergamedev-vr/uegitplugin
